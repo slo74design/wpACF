@@ -9,6 +9,7 @@
 /wp-content/index.php
 /wp-content/languages
 /wp-content/plugins/index.php
+/wp-content/plugins/litespeed-cache/
 /wp-content/themes/index.php
 /wp-includes/
 /index.php
@@ -34,6 +35,10 @@ wp-config.php
 
 # htaccess
 /.htaccess
+/.htaccess.bk
+
+# node_modules
+/wp-content/themes/wpAcfTheme/node_modules
 
 # All plugins
 #
